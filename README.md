@@ -9,6 +9,12 @@ $ 2,500 x 2 best projects
 Track: Influence Web3 with Fluence
 Best use of Fluence and Aqua in your Web3 project or DApp. For more details and resources, please check here!
 
+## Workshop
+Tutor: Bernhard Borges
+Title: Fluence Labs Research Scientist
+Time: July 20th 18:00 CST
+Theme: Introduction to Fluence & Aqua (EN)
+
 ## About Fluence
 
 Fluence provides the protocol, infrastructure and tools to enable decentralized compute for applications and backends on peer-to-peer networks. Nodes in the Fluence peer-to-peer network host discoverable services comprised of WebAssembly Interface Types (IT) modules. Resource discovery, e.g., FaaS, is achieved by function addressability rather than REST or JSON-RPC. Aqua, Fluence's purpose-built distributed systems programming language, allows developers to seamlessly program distributed networks and compose hosted services into decentralized applications. As a result, the Fluence protocol and solution stack allows you to quickly and effectively create and implement Web3 protocols and associated governance models within the decentralized serverless paradigm.
