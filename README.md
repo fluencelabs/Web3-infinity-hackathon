@@ -1,5 +1,5 @@
 ## Web3-infinity-hackathon
-[Fluence](https://fluence.network/) is supporting a 6-weeks online [hackathon](https://hackathon.fil-singapore.io/) in summer 2022 organized by IPFS/Filecoin run up to a [FIL Singapore Summit](https://fil-singapore.io/) on August 16-19. Sign up at the [hackathon onboarding page] (https://web3infinityhackathon.devpost.com/)
+[Fluence](https://fluence.network/) is supporting a 6-weeks online [hackathon](https://hackathon.fil-singapore.io/) in summer 2022 organized by IPFS/Filecoin run up to a [FIL Singapore Summit](https://fil-singapore.io/) on August 16-19. Sign up at the [hackathon onboarding page](https://web3infinityhackathon.devpost.com/)
 
 ## Prize
 Outstanding Award Of Fluence
