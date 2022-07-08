@@ -43,6 +43,7 @@ A variety of [examples and tutorials](https://github.com/fluencelabs/examples) a
 Fluence has a variety of components and building blocks available to accelerate your project build.
 
 
+* [Start hacking with Fluence](https://www.notion.so/fluencenetwork/Hacking-On-Fluence-Primer-28a87754397048e1bec72e3bfc91fd9b)
 * [Fluence Documentation](https://doc.fluence.dev/docs/)
 * [Aqua Book](https://doc.fluence.dev/aqua-book/)
 * [Fluence Quickstart](https://github.com/fluencelabs/examples/tree/main/quickstart)
