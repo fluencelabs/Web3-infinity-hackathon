@@ -7,7 +7,7 @@ $ 2,500 x 2 best projects
 
 ## Challenge track
 Track: Influence Web3 with Fluence
-Best use of Fluence and Aqua in your Web3 project or DApp. For more details and resources, please check here!
+Best use of Fluence and Aqua in your Web3 project or DApp. For more details and resources, please [check here](https://web3infinityhackathon.devpost.com/updates/23174-announcing-new-sponsor-fluence-with-5-000-prizes)!
 
 ## Workshop
 Tutor: Bernhard Borges
